@@ -12,3 +12,6 @@ Objective: Write a program to calculate the area of a rectangle.
 
 Task 5: Temperature Converter
 Objective: Convert Celsius to Fahrenheit.
+
+Task 6: Filter and Display Specific Files by Extension
+Objective: Display only .txt and .md files from a directory while excluding .pdf files
